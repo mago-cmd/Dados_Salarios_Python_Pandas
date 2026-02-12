@@ -58,4 +58,15 @@ Os dados utilizados estão disponíveis no arquivo CSV hospedado no GitHub:
 📄 dados-imersao-final.csv
 
 
+# 📊 Dashboard de Salários na Área de Dados
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://dashboard-salarios-dados.streamlit.app)
+
+Este projeto é um **dashboard interativo** desenvolvido com [Streamlit](https://streamlit.io/) e [Plotly](https://plotly.com/python/), que permite explorar dados salariais da área de dados ao longo dos anos.  
+O objetivo é fornecer uma visão clara e dinâmica sobre salários, cargos, tipos de contrato, senioridade e localização.
+
+
+
+
+
 
