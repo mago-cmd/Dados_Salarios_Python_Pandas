@@ -48,13 +48,6 @@ O objetivo é fornecer uma visão clara e dinâmica sobre salários, cargos, tip
 
 ---
 
-## Como Executar
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/dashboard_salarios_dados.git
-   cd dashboard_salarios_dados
-
 📊 Fonte dos Dados
 Os dados utilizados estão disponíveis no arquivo CSV hospedado no GitHub:
 📄 dados-imersao-final.csv
