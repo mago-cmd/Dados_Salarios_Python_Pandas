@@ -37,17 +37,6 @@ O objetivo é fornecer uma visão clara e dinâmica sobre salários, cargos, tip
 
 ---
 
-## Estrutura do Projeto
-
-├── app.py                  # Código principal do dashboard
-├── dados-imersao-final.csv # Base de dados utilizada
-├── requirements.txt        # Dependências do projeto
-├── README.md               # Documentação do projeto
-
-
-
----
-
 📊 Fonte dos Dados
 Os dados utilizados estão disponíveis no arquivo CSV hospedado no GitHub:
 📄 dados-imersao-final.csv
