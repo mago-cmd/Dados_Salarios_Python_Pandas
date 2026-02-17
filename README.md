@@ -37,32 +37,34 @@ O objetivo é criar um **dashboard interativo** que permita explorar e analisar 
 - [Plotly Express](https://plotly.com/python/plotly-express/) → para visualizações gráficas
 
 ---
-
-## 📂 Estrutura do Projeto
 ```
-dashboard-salarios-dados/
-│
-├── app.py                # Código principal do dashboard
-├── dados-imersao-final.csv  # Base de dados utilizada (link remoto)
-└── README.md             # Documentação do projeto
-
+📂 DADOS_SALARIOS_PYTHON/
+├── src/
+│   └── app.py
+├── .gitignore
+├── LICENSE
+├── README.md
+└── requirements.txt
 ```
 
 ---
 
+
 ## ▶️ Como Executar
 
-- Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/dashboard-salarios-dados.git
+1. Clone este repositório:
+```bash
+git clone https://github.com/seu-usuario/dashboard-salarios-dados.git
+
    
-- Instale as dependências:
+2. Instale as dependências:
 
-pip install streamlit pandas plotly
+pip install -r requirements.txt
 
-- Execute o projeto:
+3. Execute o projeto:
 
-streamlit run app.py
+streamlit streamlit run src/app.py
+
 
 Abra o navegador no endereço indicado pelo Streamlit (geralmente http://localhost:8501
 
@@ -75,12 +77,15 @@ Abra o navegador no endereço indicado pelo Streamlit (geralmente http://localho
 
 - Analisar como o tipo de contrato e o tamanho da empresa influenciam na remuneração.
 
+## 🧪 Testes
+- Filtro por ano retorna apenas registros do ano selecionado.
+- Cálculo de salário médio confere com valores esperados.
+- Gráficos atualizam corretamente conforme os filtros.
+
 ## 📈 Aprendizados
 - Manipulação de dados com Pandas (filtros, agrupamentos, estatísticas).
-
 - Criação de dashboards interativos com Streamlit.
-
 - Uso de gráficos avançados com Plotly.
-
 - Estruturação de um projeto simples e funcional em Python.
+- Experiência prática de aprendizado e manipulação de dados durante a Imersão Alura.
 
