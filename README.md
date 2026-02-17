@@ -53,11 +53,11 @@ O objetivo é criar um **dashboard interativo** que permita explorar e analisar 
 ## ▶️ Como Executar
 
 1. Clone este repositório:
-```bash
+
 git clone https://github.com/seu-usuario/dashboard-salarios-dados.git
 
    
-2. Instale as dependências:
+3. Instale as dependências:
 
 pip install -r requirements.txt
 
@@ -67,6 +67,9 @@ streamlit streamlit run src/app.py
 
 
 Abra o navegador no endereço indicado pelo Streamlit (geralmente http://localhost:8501
+
+## 🖼️ Demonstração
+Exemplo Dashboard [PDF](https://drive.google.com/file/d/1vKXsVdhko7cqozZ1YGQ8STXYzCjbjQmC/view?usp=sharing)
 
 ## 📈 Exemplos de Uso
 - Descobrir quais cargos possuem os maiores salários médios.
