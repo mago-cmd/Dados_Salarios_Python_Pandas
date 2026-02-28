@@ -5,7 +5,7 @@ O objetivo é criar um **dashboard interativo** que permita explorar e analisar 
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 - **Filtros interativos** na barra lateral:
   - Ano
@@ -29,7 +29,7 @@ O objetivo é criar um **dashboard interativo** que permita explorar e analisar 
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - [Python](https://www.python.org/)
 - [Streamlit](https://streamlit.io/) → para criação da interface interativa
@@ -50,7 +50,7 @@ O objetivo é criar um **dashboard interativo** que permita explorar e analisar 
 ---
 
 
-## ▶️ Como Executar
+## Como Executar
 
 1. Clone este repositório:
 
@@ -68,10 +68,10 @@ streamlit streamlit run src/app.py
 
 Abra o navegador no endereço indicado pelo Streamlit (geralmente http://localhost:8501
 
-## 🖼️ Demonstração
+## Demonstração
 Exemplo Dashboard [PDF](https://drive.google.com/file/d/1vKXsVdhko7cqozZ1YGQ8STXYzCjbjQmC/view?usp=sharing)
 
-## 📈 Exemplos de Uso
+## Exemplos de Uso
 - Descobrir quais cargos possuem os maiores salários médios.
 
 - Visualizar a distribuição de salários por faixa.
@@ -80,12 +80,12 @@ Exemplo Dashboard [PDF](https://drive.google.com/file/d/1vKXsVdhko7cqozZ1YGQ8STX
 
 - Analisar como o tipo de contrato e o tamanho da empresa influenciam na remuneração.
 
-## 🧪 Testes
+## Testes
 - Filtro por ano retorna apenas registros do ano selecionado.
 - Cálculo de salário médio confere com valores esperados.
 - Gráficos atualizam corretamente conforme os filtros.
 
-## 📈 Aprendizados
+## Aprendizados
 - Manipulação de dados com Pandas (filtros, agrupamentos, estatísticas).
 - Criação de dashboards interativos com Streamlit.
 - Uso de gráficos avançados com Plotly.
