@@ -52,7 +52,7 @@ O objetivo é criar um **dashboard interativo** que permita explorar e analisar 
 
 ## Como Executar
 
-1. Clone este repositório:
+1. Clone este repositório
 
 git clone https://github.com/seu-usuario/dashboard-salarios-dados.git
 
